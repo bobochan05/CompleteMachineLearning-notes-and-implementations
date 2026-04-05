@@ -1,0 +1,7 @@
+print("Hello World")
+print("my bitchass is writing to a file")
+print("my bitchass is writing to a file")
+print("my bitchass is writing to a file")
+print("my bitchass is writing to a file")
+print("my bitchass is writing a file")
+print("my bitchass is writing a file")
