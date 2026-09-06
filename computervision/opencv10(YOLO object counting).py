@@ -2,8 +2,7 @@ import cv2
 from ultralytics import YOLO
 
 # Load YOLOv8 model
-# yolov8m.pt = medium object detection model
-model = YOLO("yolov8m.pt")
+model = YOLO("yolov8n.pt")
 
 # Open video
 video = cv2.VideoCapture(r"C:\Users\soham\Downloads\6387-191695740_medium.mp4")
